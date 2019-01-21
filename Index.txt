@@ -1,26 +1,15 @@
 ## Index of source code examples:
 
-\Make Thumbnail
-\PDF to 1-bit BMP
-\PDF To BMP
-\PDF To BMP (using Streams)
-\PDF To EMF
-\PDF To JPEG
-\PDF To PNG
-\PDF To PNG high quality
-\PDF to TIFF multipaged
+\Convert PDF to 1-bit BMP
+\Convert PDF To BMP
+\Convert PDF To BMP (using Streams)
+\Convert PDF To EMF
+\Convert PDF To high quality PNG
+\Convert PDF To JPEG
+\Convert PDF To PNG
+\convert PDF to TIFF multipaged
+\Make Thumbnail image from PDF
+\pdf to image rendering In Background Thread
 \Print PDF
-\Rendering In Background Thread
-\Silent Printing
-\Text-Vector-Image Layers
-\_Web API
-\_Web API\PDF To Image
-\_Web API\PDF To Image\Convert PDF To JPEG From Uploaded File
-\_Web API\PDF To Image\Convert PDF To JPEG From URL
-\_Web API\PDF To Image\Convert PDF To JPEG From URL Asynchronously
-\_Web API\PDF To Image\Convert PDF To PNG From Uploaded File
-\_Web API\PDF To Image\Convert PDF To PNG From URL
-\_Web API\PDF To Image\Convert PDF To PNG From URL Asynchronously
-\_Web API\PDF To Image\Convert PDF To TIFF From Uploaded File
-\_Web API\PDF To Image\Convert PDF To TIFF From URL
-\_Web API\PDF To Image\Convert PDF To TIFF From URL Asynchronously
+\Show or hide Text or Vector or Image Layers in pdf
+\Silent PDF document Printing
