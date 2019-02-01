@@ -1,15 +1,15 @@
 ## Index of source code examples:
 
-\Convert PDF to 1-bit BMP
+\Convert PDF To 1-bit BMP
 \Convert PDF To BMP
 \Convert PDF To BMP (using Streams)
 \Convert PDF To EMF
-\Convert PDF To high quality PNG
+\Convert PDF To High Quality PNG
 \Convert PDF To JPEG
+\Convert PDF To Multipage TIFF
 \Convert PDF To PNG
-\convert PDF to TIFF multipaged
-\Make Thumbnail image from PDF
-\pdf to image rendering In Background Thread
+\Make Thumbnail Image From PDF
+\PDF To Image Rendering In Background Thread
 \Print PDF
-\Show or hide Text or Vector or Image Layers in pdf
-\Silent PDF document Printing
+\Show Or Hide Text Or Vector Or Image Layers In PDF
+\Silent PDF Document Printing
