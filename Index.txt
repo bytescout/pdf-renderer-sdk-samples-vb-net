@@ -10,6 +10,7 @@
 \Convert PDF To PNG
 \Make Thumbnail Image From PDF
 \PDF To Image Rendering In Background Thread
+\PDF to Image With Custom Size
 \Print PDF
 \Show Or Hide Text Or Vector Or Image Layers In PDF
 \Silent PDF Document Printing
