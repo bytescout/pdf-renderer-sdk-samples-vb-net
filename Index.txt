@@ -9,6 +9,8 @@
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
 \Make Thumbnail Image From PDF
+\Override Resolution in Multipage TIFF
+\Override Resolution in Rendered Image
 \PDF To Image Rendering In Background Thread
 \PDF to Image With Custom Size
 \Print PDF
